@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Dushyant  
+![Alt Text](assets/image.png)
 
+## 😄 About Me
 🚀 **Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Explorer**  
 
 ## 🛠️ Tech Stack  

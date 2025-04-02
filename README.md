@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 - **Developing a smart system for human activity tracking** 🔍  
 
 ## 📫 Let's Connect!  
-[![Portoflio](https://dushyantportfolio074.netlify.app/)  
-[![LinkedIn](https://www.linkedin.com/in/dushyant-singh-86a3962b4/)  
+- **Portoflio:** (https://dushyantportfolio074.netlify.app/)  
+- **LinkedIn:** (https://www.linkedin.com/in/dushyant-singh-86a3962b4/)  
 
 ---
 

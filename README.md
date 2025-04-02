@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi, I'm Dushyant  
-![Alt Text]((https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47b0lkdvom7kuyxdjsmih2xkjtn9yjc741u3bys81g&ep=v1_gifs_related&rid=giphy.gif&ct=g))
+![Alt Text](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47b0lkdvom7kuyxdjsmih2xkjtn9yjc741u3bys81g&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 ## 😄 About Me
 🚀 **Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Explorer**  

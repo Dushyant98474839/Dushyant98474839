@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm [Your Name]  
+
+🚀 **Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Explorer**  
+
+## 🛠️ Tech Stack  
+
+### 💻 **Expertise Areas:**  
+- **Web Development & Security**  
+- **Machine Learning & AI**  
+- **Data Structures & Algorithms**  
+
+### 🏗️ **Programming Languages:**  
+- Java, C, C++, Python, JavaScript  
+
+### ⚙️ **Tools & Technologies:**  
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express.js, NGINX  
+- **Databases:** PostgreSQL, MongoDB, Prisma, Firebase  
+- **Machine Learning:** PyTorch, Hugging Face, Scikit-Learn, OpenCV  
+
+## 🎓 Technical Background  
+📚 **Technical Electives:**  
+- **DSA, Advanced Programming, Algorithm Design & Analysis**  
+- **Operating Systems, DBMS, Computer Organization**  
+- **Machine Learning, AI, Computer Networks**  
+- **Digital Circuits, HCI in AI, Fundamentals of Security**  
+
+## 🔥 What I'm Working On  
+- **Fine-tuning SpanBERT on SQuAD v2 for QA** 🤖  
+- **Building a real-time chat app with Next.js & Prisma** 💬  
+- **Developing a smart system for human activity tracking** 🔍  
+
+## 📫 Let's Connect!  
+[![Portoflio](https://dushyantportfolio074.netlify.app/)  
+[![LinkedIn](https://www.linkedin.com/in/dushyant-singh-86a3962b4/)  
+
+---
+
+🔍 *Always learning, always building!* 🚀  

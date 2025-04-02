@@ -28,14 +28,21 @@ Here are some ideas to get you started:
 - **Machine Learning & AI**  
 - **Data Structures & Algorithms**  
 
-### 🏗️ **Programming Languages:**  
-- Java, C, C++, Python, JavaScript  
+## 🚀 Technologies & Tools  
 
-### ⚙️ **Tools & Technologies:**  
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express.js, NGINX  
-- **Databases:** PostgreSQL, MongoDB, Prisma, Firebase  
-- **Machine Learning:** PyTorch, Hugging Face, Scikit-Learn, OpenCV  
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDA44?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 🎓 Technical Background  
 📚 **Technical Electives:**  
@@ -43,6 +50,13 @@ Here are some ideas to get you started:
 - **Operating Systems, DBMS, Computer Organization**  
 - **Machine Learning, AI, Computer Networks**  
 - **Digital Circuits, HCI in AI, Fundamentals of Security**  
+
+## 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dushyant98474839&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dushyant98474839e&layout=compact&theme=radical)  
+
+
 
 ## 🔥 What I'm Working On  
 - **Fine-tuning SpanBERT on SQuAD v2 for QA** 🤖  

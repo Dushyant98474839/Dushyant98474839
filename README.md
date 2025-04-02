@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Dushyant98474839/Dushyant98474839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Dushyant  
 
 🚀 **Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Explorer**  
 

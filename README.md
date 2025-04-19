@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Alt Text](https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47gwdjuzpj6x5dhfrgbwsw0rb2ibpenfmhv624l3es&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 ## 😄 About Me
-🚀 **Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Explorer**  
+🚀 **Full-Stack Developer | AI/ML | Cybersecurity**  
 
 ## 🛠️ Tech Stack  
 
